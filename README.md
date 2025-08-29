@@ -5,7 +5,7 @@ Core contributor of **[ADAMANT Messenger](https://github.com/Adamant-im)** — a
 
 ## 🚀 Key Projects
 
-<img width="4998" height="2208" alt="image" src="https://github.com/user-attachments/assets/d160e10c-b57a-4927-a69e-b6d9dece44bd" />
+<img width="2000" height="884" alt="image" src="https://github.com/user-attachments/assets/a7cd461b-f97e-4f0c-868b-829b42cef9c9" />
 
 **[adamant](https://github.com/Adamant-im/adamant) — Blockchain node**  
 **[adamant-im](https://github.com/Adamant-im/adamant-im) — Messenger app**  
@@ -62,4 +62,4 @@ Features:
 - News & blog: [news.adamant.im](https://news.adamant.im)  
 - Website: [adamant.im/contact](https://adamant.im/contact)  
 
-<img width="2770" height="2829" alt="image" src="https://github.com/user-attachments/assets/23751d13-b463-48ff-9b18-26fe988f6583" />
+<img width="1200" height="1226" alt="image" src="https://github.com/user-attachments/assets/3cc56041-94a6-485a-b180-07af3916c4b8" />
